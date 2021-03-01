@@ -1,3 +1,6 @@
 spring:
   application:
     name: spring-boot-admin
+
+server:
+  port: 9010
